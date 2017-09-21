@@ -1,0 +1,2 @@
+# BananaRevange
+Simple game based on Space Invaders model, with very primitive graphics and sounds, but powerful gameplay. Most important, this projects shows the fact, that creating projects always increase the complexity, hence without OOP with design patterns and unit tests it is very hard, to maintance or add features to such massive codes. Almost understanging autroh intentions is impossible.
